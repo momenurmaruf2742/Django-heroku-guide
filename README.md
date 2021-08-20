@@ -1,4 +1,3 @@
-# Django-heroku-guide
 # Deploy Django App to Heroku
  
 
